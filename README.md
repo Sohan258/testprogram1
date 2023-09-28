@@ -5,3 +5,5 @@
 3. git add file name or .
 4. git commit -m "a massege " *
 5. git push 
+6. git chechout
+7. git branch
